@@ -8,6 +8,7 @@ function App() {
       <h1>Portfolio</h1>
       <Portfolio />
       <Button label="Login"/>
+      <Button label="Signin"/>
     </div>
   );
 }
